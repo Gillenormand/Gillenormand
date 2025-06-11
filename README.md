@@ -1,5 +1,5 @@
 # 🧪 QA Инженер | Junior / QA Стажёр  
-**Краснослободцев Антон**  
+<span style="font-size: 18px;">**Краснослободцев Антон**</span>  
 
 ![Status](https://img.shields.io/badge/status-ищу_работу-brightgreen)   
 📍 Тамбов | 📧 [Email](mailto:rabbit2027@gmail.com) | 💬 [Telegram](http://t.me/Gillenormand)  | 🖥️ [GitHub](https://github.com/Gillenormand/QA-Testing) 
