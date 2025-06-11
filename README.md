@@ -33,7 +33,7 @@
  ![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=flat-square&logo=swagger&logoColor=black)  ![OpenAPI](https://img.shields.io/badge/OpenAPI-%23F7DF00.svg?style=flat-square&logo=swagger&logoColor=black)
 
 #### 📄 Работа с тестовой документацией
-![Bug reports](https://img.shields.io/badge/Bug%20reports-white?style=flat&logo=openbugbounty&logoColor=%234285F4&labelColor=black)  ![Static Badge](https://img.shields.io/badge/Check_lists-white?style=flat&logo=googledocs&logoColor=%234285F4&labelColor=black)  
+![Bug reports](https://img.shields.io/badge/%D0%91%D0%B0%D0%B3--%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D1%8B-white?style=flat&logo=openbugbounty&logoColor=%234285F4&labelColor=black)  ![Static Badge](https://img.shields.io/badge/%D0%A7%D0%B5%D0%BA--%D0%BB%D0%B8%D1%81%D1%82%D1%8B-white?style=flat&logo=googledocs&logoColor=%234285F4&labelColor=black)  ![Static Badge](https://img.shields.io/badge/%D0%A2%D0%B5%D1%81%D1%82_%D0%BA%D0%B5%D0%B9%D1%81%D1%8B-white?style=flat&logo=googledocs&logoColor=blue&labelColor=black)  
 
 #### 🧠 Системы контроля и другие   
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) 
