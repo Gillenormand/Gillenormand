@@ -64,7 +64,11 @@
   
 🐛 Примеры баг-репортов ‎ ‎
 - [Тестирование модуля оплаты](https://docs.google.com/document/d/1GEwqgLMfCMn5gRGfF7ecXvG2Ngw4XFk51SPTiL8bltk/edit?usp=sharing)  
-- [Тестирование веб-сайта](https://docs.google.com/document/d/1EaitA8XhniHZ5unAYQ9Q3L7zxHL8YV0hYaQ-XokuiZQ/edit?usp=drive_link)  
+- [Тестирование веб-сайта](https://docs.google.com/document/d/1EaitA8XhniHZ5unAYQ9Q3L7zxHL8YV0hYaQ-XokuiZQ/edit?usp=drive_link)
+
+Miro
+- [Декомпозиция desktop приложения](https://github.com/gillenormand/gillenormand/blob/main/files/miro_gameapp.jpg?raw=true) --> [Ссылка на репозиторий приложения](https://github.com/gillenormand/TimerApp)
+
 <!--- 📡 [HTTP-запросы в Postman](#)
 - 📁 [Проекты / задания по тестированию](#)-->
 
