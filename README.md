@@ -53,7 +53,7 @@
 ## <p id="examples">🧾 Портфолио</p>  
 
 🔍 Примеры тест-кейсов ‎ ‎
-- [Модуль оплаты подписки](https://docs.google.com/document/d/10Exm17jfyhH3gLBUTk7IzrVQiCE2ND-B0b-C17sSu-k/edit?usp=sharing) ‎ ‎ 
+- [Модуль оплаты подписки](https://docs.google.com/document/d/10Exm17jfyhH3gLBUTk7IzrVQiCE2ND-B0b-C17sSu-k/edit?usp=sharing)  
 📋 Примеры Чек-листов
 
 - [Модуль оплаты подписки](https://docs.google.com/spreadsheets/d/1EBjDXpDcZ65wQ8J7iCmCo0Cyum-fNIR2jrjiuqf5lfw/edit?usp=drive_link)
