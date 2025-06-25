@@ -54,8 +54,8 @@
 
 🔍 Примеры тест-кейсов ‎ ‎
 - [Модуль оплаты подписки](https://docs.google.com/document/d/10Exm17jfyhH3gLBUTk7IzrVQiCE2ND-B0b-C17sSu-k/edit?usp=sharing)  
-📋 Примеры Чек-листов
 
+📋 Примеры Чек-листов
 - [Модуль оплаты подписки](https://docs.google.com/spreadsheets/d/1EBjDXpDcZ65wQ8J7iCmCo0Cyum-fNIR2jrjiuqf5lfw/edit?usp=drive_link)
 - [Кинопоиск: функция поиска](https://docs.google.com/spreadsheets/d/1HoUv2Ej3pblxNVQKemlrPw0qzGFE9LsM1J6Je4W6FDI/edit?usp=sharing)  
 - [Кинопоиск: редактирование личного профиля](https://docs.google.com/spreadsheets/d/1RNKXdDCxufmM4ZFRUPeprwekEdMgKxeQ802vPqS5MUs/edit?usp=sharing)  
