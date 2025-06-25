@@ -2,7 +2,7 @@
 <span style="font-size: 18px;">**Краснослободцев Антон**</span>  
 
 ![Status](https://img.shields.io/badge/status-ищу_работу-brightgreen)   
-📍 Тамбов | 📧 [Email](mailto:rabbit2027@gmail.com) | 💬 [Telegram](http://t.me/Gillenormand) | 🖥️ [GitHub](https://github.com/gillenormand) | 🌐 [Сайт / резюме](https://gillenormand.github.io/antonCV/) | 📄 [Примеры тестовой документации](#🧾Портфолио)  
+📍 Тамбов | 📧 [Email](mailto:rabbit2027@gmail.com) | 💬 [Telegram](http://t.me/Gillenormand) | 🖥️ [GitHub](https://github.com/gillenormand) | 🌐 [Сайт / резюме](https://gillenormand.github.io/antonCV/) | 📄 [Примеры тестовой документации](#examples)  
 
 ---
 
@@ -50,7 +50,7 @@
 
 ---
 
-## 🧾 Портфолио
+## <p id="examples">🧾 Портфолио</p>  
 
 - 🔍 Примеры тест-кейсов ‎ ‎ [pdf](https://drive.google.com/file/d/188H4hgOIltzG_d2aE_r7S4Q7yvEwmIxv/view?usp=sharing)‎ ‎ ‎ [Google Docs](https://docs.google.com/document/d/10Exm17jfyhH3gLBUTk7IzrVQiCE2ND-B0b-C17sSu-k/edit?usp=sharing) ‎ ‎ и чек-листов ‎ ‎ [pdf](https://drive.google.com/file/d/1Bj_mqCgYOvKgp0wsfcqfCtn1fcQLDMWa/view?usp=drive_link) ‎ ‎ [Google Spreadsheets](https://docs.google.com/spreadsheets/d/1EBjDXpDcZ65wQ8J7iCmCo0Cyum-fNIR2jrjiuqf5lfw/edit?usp=drive_link)  
 - 🐛 Образцы баг-репортов ‎ ‎ [pdf](https://drive.google.com/file/d/1OWD8bjL7NwxUXI5mZQZrEJX0MBSnk-JG/view?usp=sharing) ‎ ‎ [Google Docs](https://docs.google.com/document/d/1GEwqgLMfCMn5gRGfF7ecXvG2Ngw4XFk51SPTiL8bltk/edit?usp=sharing)  
