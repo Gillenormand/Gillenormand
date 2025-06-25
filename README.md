@@ -2,7 +2,7 @@
 <span style="font-size: 18px;">**Краснослободцев Антон**</span>  
 
 ![Status](https://img.shields.io/badge/status-ищу_работу-brightgreen)   
-📍 Тамбов | 📧 [Email](mailto:rabbit2027@gmail.com) | 💬 [Telegram](http://t.me/Gillenormand) | 🖥️ [GitHub](https://github.com/gillenormand) | 🌐 [Сайт / резюме](https://gillenormand.github.io/antonCV/) | 📄 [Примеры тестовой документации](#examples)  
+📍 Тамбов | 📧 [Email](mailto:rabbit2027@gmail.com) | 💬 [Telegram](http://t.me/Gillenormand) | 🖥️ [GitHub](https://github.com/gillenormand) | 🌐 [Сайт / резюме](https://gillenormand.github.io/antonCV/){target="_blank"} | 📄 [Примеры тестовой документации](#examples)  
 
 ---
 
@@ -52,8 +52,17 @@
 
 ## <p id="examples">🧾 Портфолио</p>  
 
-- 🔍 Примеры тест-кейсов ‎ ‎ [pdf](https://drive.google.com/file/d/188H4hgOIltzG_d2aE_r7S4Q7yvEwmIxv/view?usp=sharing)‎ ‎ ‎ [Google Docs](https://docs.google.com/document/d/10Exm17jfyhH3gLBUTk7IzrVQiCE2ND-B0b-C17sSu-k/edit?usp=sharing) ‎ ‎ и чек-листов ‎ ‎ [pdf](https://drive.google.com/file/d/1Bj_mqCgYOvKgp0wsfcqfCtn1fcQLDMWa/view?usp=drive_link) ‎ ‎ [Google Spreadsheets](https://docs.google.com/spreadsheets/d/1EBjDXpDcZ65wQ8J7iCmCo0Cyum-fNIR2jrjiuqf5lfw/edit?usp=drive_link)  
-- 🐛 Образцы баг-репортов ‎ ‎ [pdf](https://drive.google.com/file/d/1OWD8bjL7NwxUXI5mZQZrEJX0MBSnk-JG/view?usp=sharing) ‎ ‎ [Google Docs](https://docs.google.com/document/d/1GEwqgLMfCMn5gRGfF7ecXvG2Ngw4XFk51SPTiL8bltk/edit?usp=sharing)  
+🔍 Примеры тест-кейсов ‎ ‎
+- [Модуль оплаты подписки](https://docs.google.com/document/d/10Exm17jfyhH3gLBUTk7IzrVQiCE2ND-B0b-C17sSu-k/edit?usp=sharing) ‎ ‎
+📋 Примеры Чек-листов  
+- [Модуль оплаты подписки](https://docs.google.com/spreadsheets/d/1EBjDXpDcZ65wQ8J7iCmCo0Cyum-fNIR2jrjiuqf5lfw/edit?usp=drive_link)
+- [Кинопоиск: функция поиска](https://docs.google.com/spreadsheets/d/1HoUv2Ej3pblxNVQKemlrPw0qzGFE9LsM1J6Je4W6FDI/edit?usp=sharing)  
+- [Кинопоиск: редактирование личного профиля](https://docs.google.com/spreadsheets/d/1RNKXdDCxufmM4ZFRUPeprwekEdMgKxeQ802vPqS5MUs/edit?usp=sharing)  
+- [Кинопоиск: вход/регистрациия](https://docs.google.com/spreadsheets/d/1Zb4pn-eLp0xD9iCXXv2SQ1FwgGKTF3O1lfZiEWjpwuo/edit?usp=sharing)  
+- [Кинопоиск: проверка SMS-верификации](https://docs.google.com/spreadsheets/d/1s7BxinJS5bQbvFBMQAAKQmBI9wJtO06JU9KjPRPezqA/edit?usp=sharing)  
+🐛 Примеры баг-репортов ‎ ‎
+- [Тестирование модуля оплаты](https://docs.google.com/document/d/1GEwqgLMfCMn5gRGfF7ecXvG2Ngw4XFk51SPTiL8bltk/edit?usp=sharing)  
+- [Тестирование веб-сайта](https://docs.google.com/document/d/1EaitA8XhniHZ5unAYQ9Q3L7zxHL8YV0hYaQ-XokuiZQ/edit?usp=drive_link)  
 <!--- 📡 [HTTP-запросы в Postman](#)
 - 📁 [Проекты / задания по тестированию](#)-->
 
